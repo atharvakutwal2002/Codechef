@@ -1,32 +1,32 @@
-// #include<bits/stdc++.h>
-// using namespace std;
+#include<bits/stdc++.h>
+using namespace std;
 
-// int main(){
-//     int t;
-//     cin>>t;
-//     while (t--)
-//     {
-//         int a,b;
-//         cin>>a>>b;
-//         cout<<a*b<<endl;
-//     }
+int main(){
+    int t;
+    cin>>t;
+    while (t--)
+    {
+        int a,b;
+        cin>>a>>b;
+        cout<<a*b<<endl;
+    }
     
 
 
-//     return 0;
-// }
+    return 0;
+}
 
-// int main(){
-//     int t;
-//     cin>>t;
-//     while (t--)
-//     {
-//         long long int a;
-//         cin>>a;
-//         double result = pow(0.143*a, a);
-//         cout<<round(result)<<endl;
+int main(){
+    int t;
+    cin>>t;
+    while (t--)
+    {
+        long long int a;
+        cin>>a;
+        double result = pow(0.143*a, a);
+        cout<<round(result)<<endl;
         
-//     }
+    }
     
 
 
